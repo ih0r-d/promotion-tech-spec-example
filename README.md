@@ -1,0 +1,1 @@
+# promotion-tech-spec-example
